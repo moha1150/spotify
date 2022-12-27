@@ -1,4 +1,4 @@
-Spotify API
+# Spotify API
 
 This is code for an app that makes API calls to the Spotify API to perform various actions, such as returning a list of playlists, devices, and tracks, as well as controlling playback (e.g. play, pause, next, previous).
 
